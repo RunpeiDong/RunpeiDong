@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I'm Runpei Dong</h1>
+<!-- <h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I'm Runpei Dong</h1>
 
 - 🔭 I’m currently working at **ARChip Lab (Tsinghua University) as a Master Student**
 
@@ -11,7 +11,7 @@
 + [Multi-Glimpse Network: A Robust and Efficient Classification Architecture based on Recurrent Downsampled Attention](https://arxiv.org/abs/2111.02018) | BMVC 2021
 + [NN-Baton: DNN Workload Orchestration and Chiplet Granularity Exploration for Multichip Accelerators](http://group.iiis.tsinghua.edu.cn/~maks/publications/pdf/ISCA2021-NNbaton.pdf) | ISCA 2021
 
-### Profile-summary-card:
+### Profile-summary-card: -->
 
 [![](.//profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](.//profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](.//profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
